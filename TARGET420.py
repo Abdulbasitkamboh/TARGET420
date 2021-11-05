@@ -4,8 +4,9 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by TARGET420    #
+        #    Facebook BruteForce, by TARGET420      #
         #    WhatsApp Contact:       03061123367    #
+        #    Owner           : ABDUL BASIT KAMBOH   #
         #                                           #
         #############################################
 
